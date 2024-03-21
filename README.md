@@ -1,4 +1,5 @@
 PALM algorithm:
+
 Implementation of an algorithm for reconstructing all signals of the monitored object based only on measurable online signals. Adaptive signal estimation algorithm with additional tuning of dynamic properties through forced eigenvalue localization. The algorithm uses a specially designed latch mechanism. The solution concerns an original approach to signal processing methods and procedures describing the dynamic process of monitoring a polluted river.
 
 Development environment:
