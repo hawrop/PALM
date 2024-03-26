@@ -13,8 +13,10 @@ System architecture:
 - createfigure.m - support function generating the graphics base for the presented results;
 - compare_vari_inter.m - the assistant program that creates charts of indicators of the quality of the signals generated;
 - wwA_fig.m - the function that creates a graph of the distribution of eigenvalues;
-- DATA - folder containing selected data files with average results of MAE and RMSA values obtained with different conditions for compare_vari_inter.m program;
 - SAVEDATA - folder for saving assistance data;
+
+Data:
+DATA folder containing test measurement data from the object and data generated from the object model (object.csv), as well as .txt files with selected average results of RMSE and MAE monitoring quality indicator values obtained under different conditions for the compare_vari_inter.m program;
 
 Contact:
 - przemyslaw.hawro@pwste.edu.pl
