@@ -16,6 +16,7 @@ System architecture:
 - SAVEDATA - folder for saving assistance data;
 
 Data:
+
 DATA folder containing test measurement data from the object and data generated from the object model (object.csv), as well as .txt files with selected average results of RMSE and MAE monitoring quality indicator values obtained under different conditions for the compare_vari_inter.m program;
 
 Contact:
